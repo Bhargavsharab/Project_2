@@ -1,2 +1,3 @@
-# Project_2
-New Project_2
+# Project
+Git project
+learning Git Hub
